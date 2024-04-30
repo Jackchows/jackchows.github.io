@@ -6,7 +6,8 @@
     <script>
         function submitSearch() {
             var keyword = document.getElementById('searchInput').value;
-            window.location.href = 'http://www.mywebsite.ccc/search/' + encodeURIComponent(keyword) +'.jpg';
+            // window.location.href = 'http://www.mywebsite.ccc/search/' + encodeURIComponent(keyword) +'.jpg';
+            window.location.href = '/search/' + encodeURIComponent(keyword) +'.jpg';
             return false; // 阻止表單的正常提交行為
         }
     </script>
