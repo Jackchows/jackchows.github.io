@@ -3,16 +3,16 @@
 <svg width="100%" height="100%" viewBox="0 0 1500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g id="字1" transform="matrix(1,0,0,1,-117,-433)">
         <g id="字">
-            <g id="字11" serif:id="字1" transform="matrix(200,0,0,200,405,671.188)">
+            <g id="字11" serif:id="字1" transform="matrix(200,0,0,200,205,671.188)">
+                <rect x="0.044" y="-0.431" width="0.916" height="0.082" style="fill:rgb(215,0,64);fill-rule:nonzero;"/>
             </g>
-            <text x="205px" y="671.188px" style="font-family:'SourceHanSansSC-Regular', 'Source Han Sans SC', sans-serif;font-size:200px;fill:rgb(215,0,64);">一</text>
         </g>
     </g>
     <g id="碼1" transform="matrix(1,0,0,1,0,-870)">
         <g id="碼">
-            <g id="碼11" serif:id="碼1" transform="matrix(66.6667,0,0,66.6667,233.667,1226.06)">
+            <g id="碼11" serif:id="碼1" transform="matrix(66.6667,0,0,66.6667,167,1226.06)">
+                <rect x="0.044" y="-0.431" width="0.916" height="0.082" style="fill:rgb(215,0,64);fill-rule:nonzero;"/>
             </g>
-            <text x="167px" y="1226.06px" style="font-family:'SourceHanSansSC-Regular', 'Source Han Sans SC', sans-serif;font-size:66.667px;fill:rgb(215,0,64);">一</text>
         </g>
     </g>
 </svg>
